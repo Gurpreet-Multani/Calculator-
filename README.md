@@ -1,3 +1,13 @@
-# Calculator-
+#Calculator
+A basic calculator application built using HTML, CSS, and JavaScript, showcasing fundamental web development skills and their practical integration.
 
-Putting Together the basic information that I gain from Html,Css,Javascript and putting them together to make a basic calculator.
+#Features
+This project demonstrates the implementation of core web technologies to create a functional calculator interface with essential arithmetic operations.
+
+#Live Demo
+View Calculator
+
+Technologies Used
+HTML - Structure and layout
+CSS - Styling and responsive design
+JavaScript - Interactive functionality and calculations
